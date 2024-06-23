@@ -8,4 +8,7 @@ Jmeter:
 
 Java Thread Dump Comparision:
 To know the PID : > jps <br>
-To generate the Thread Dump: > jstack 14264 > dump.txt
+To generate the Thread Dump: > jstack 14264 > dump.txt <br>
+
+Thread dump analyzer tool: https://jstack.review/
+
